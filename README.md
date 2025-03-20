@@ -4,6 +4,8 @@
 ## 🔹 Overview  
 This project explores the **design and control** of an **aerial manipulator** equipped with **Series-Elastic Actuators (SEAs)** for **Aerial Physical Interaction (APhI)**.  
 
+<img src="https://github.com/user-attachments/assets/9bea1c37-6ae1-485b-bd9f-e2a6b85d4f18" alt="Thumbnail" width="600">
+
 ## 🔹 Keywords  
 - **Series Elastic Actuator**  
 - **Compliant Control**  
@@ -14,5 +16,7 @@ This project explores the **design and control** of an **aerial manipulator** eq
 📅 **Date:** October 28, 2024  
 📍 **Location:** Adelaide, Australia  
 
-## 🔹 Presentation Video  
-[![Presentation Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+## 🎥 Brief Video  
+https://github.com/user-attachments/assets/a3b7857b-a4e4-49b2-9268-cb40be55b7af
+
+## 🎥 Full Presentation Video  
