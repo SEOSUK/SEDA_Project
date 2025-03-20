@@ -1,8 +1,8 @@
 # SEDA Project  
-**Design and Control of an Aerial Manipulator with Series-Elastic Actuators for APhI**  
+*Design and Control of an Aerial Manipulator with Series-Elastic Actuators for APhI*  
 
 ## 🔹 Overview  
-This project explores the **design and control** of an **aerial manipulator** equipped with **Series-Elastic Actuators (SEAs)** for **Aerial Physical Interaction (APhI)**.  
+This project explores the **design and control** of an **aerial manipulator** with **Series-Elastic Actuators (SEAs) and an additional damper** for **Aerial Physical Interaction (APhI)**.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9bea1c37-6ae1-485b-bd9f-e2a6b85d4f18" alt="Thumbnail" width="800">
