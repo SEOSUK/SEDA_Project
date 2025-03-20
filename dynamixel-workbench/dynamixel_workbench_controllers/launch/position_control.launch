@@ -1,0 +1,6 @@
+<launch>
+
+      <rosparam command="load" file="$(find inch_controllers)/config/parameters.yaml"/>
+
+  <node name="position_control" pkg="dynamixel_workbench_controllers" type="position_control" required="true" output="screen"/>
+</launch>
